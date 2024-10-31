@@ -1,0 +1,8 @@
+name: SomethingDifferentRewrite
+version: '${project.version}'
+main: me.foxils.somethingDifferentRewrite.SomethingDifferentRewrite
+api-version: '1.21'
+authors: [ Foxils @foxils. on Discord ]
+
+depend:
+  - foxutils-items
